@@ -1,2 +1,2 @@
 # DamnPayloads
- Payloads to bypass for Web Application Security
+ Payloads to bypass Web Application Security
